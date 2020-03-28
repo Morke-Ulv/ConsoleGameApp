@@ -1,0 +1,6 @@
+C:\Users\morke\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\ConsoleAppGames.exe.config
+C:\Users\morke\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\ConsoleAppGames.exe
+C:\Users\morke\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\ConsoleAppGames.pdb
+C:\Users\morke\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\ConsoleAppGames.csprojAssemblyReference.cache
+C:\Users\morke\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\ConsoleAppGames.exe
+C:\Users\morke\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\ConsoleAppGames.pdb
